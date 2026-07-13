@@ -1,0 +1,9 @@
+theme: jekyll-theme-minimal
+title: Hanzo Health Legal
+description: Privacy policies and terms of service for Hanzo Health by Hanzo Technologies Inc.
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
