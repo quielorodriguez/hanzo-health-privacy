@@ -22,7 +22,7 @@ Hanzo Health è un'app diario della salute privata che funziona sul vostro dispo
 
 Hanzo Technologies Inc., 66 Cordova St W, Vancouver, BC, V6B 1C9, Canada  
 Email: quielo@hanzotechnologies.com  
-**Rappresentante UE (art. 27 GDPR):** Nomina in corso. Gli utenti UE possono contattare direttamente quielo@hanzotechnologies.com.
+**Rappresentante UE (art. 27 GDPR):** Hanzo Technologies Inc. non ha nominato un rappresentante formale ai sensi dell'art. 27 GDPR. Si tratta di una decisione deliberata in base alle attuali dimensioni dell'azienda, che sarà riconsiderata in caso di crescita. Gli utenti UE possono contattare direttamente il Responsabile della Protezione dei Dati all'indirizzo quielo@hanzotechnologies.com per qualsiasi richiesta relativa al GDPR.
 
 ---
 

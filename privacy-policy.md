@@ -229,7 +229,7 @@ Complaints about our privacy practices may be directed to the Commission d'accè
 
 EU and EEA residents have rights under the General Data Protection Regulation including the right to access, rectify, erase, restrict processing of, and port your personal data, and the right to object to processing.
 
-> **EU Representative:** Hanzo Technologies Inc. is a Canadian company serving EU users. We are in the process of appointing an EU Article 27 Representative. Until this appointment is complete, EU users may contact our Privacy Officer directly at quielo@hanzotechnologies.com. EU users may also lodge a complaint with their national supervisory authority. In France: Commission Nationale de l'Informatique et des Libertés (CNIL) at www.cnil.fr.
+> **EU Representative:** Hanzo Technologies Inc. is a Canadian company serving EU users and has not appointed a formal EU Article 27 representative. This is a deliberate decision at our current company size and will be revisited as the company grows. EU users may contact our Privacy Officer directly at quielo@hanzotechnologies.com for any GDPR-related request, and may also lodge a complaint with their national supervisory authority. In France: Commission Nationale de l'Informatique et des Libertés (CNIL) at www.cnil.fr.
 
 **Lawful basis for processing:** Where Hanzo Health processes health data belonging to EU users, the lawful basis is **explicit consent** (Article 9(2)(a) GDPR). You provide this consent when you grant HealthKit permissions in iOS and when you enter data into the app. You may withdraw consent at any time by revoking HealthKit permissions or deleting your data.
 

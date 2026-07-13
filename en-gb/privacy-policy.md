@@ -39,7 +39,7 @@ The data controller responsible for your personal data is:
 66 Cordova St W, Vancouver, BC, V6B 1C9, Canada  
 Email: quielo@hanzotechnologies.com
 
-**UK Representative (UK GDPR Article 27):** Hanzo Technologies Inc. is in the process of appointing a UK Article 27 Representative. Until this appointment is complete, UK users may contact our Privacy Officer directly at quielo@hanzotechnologies.com.
+**UK Representative (UK GDPR Article 27):** Hanzo Technologies Inc. has not appointed a formal UK Article 27 representative. This is a deliberate decision at our current company size and will be revisited as the company grows. UK users may contact our Privacy Officer directly at quielo@hanzotechnologies.com for any UK GDPR-related request.
 
 ---
 
