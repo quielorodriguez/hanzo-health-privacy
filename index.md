@@ -23,6 +23,8 @@ Welcome to the official legal hub for **Hanzo Health** by Hanzo Technologies Inc
 | 🇫🇷 France | [Lire →](fr/privacy-policy) | [Lire →](fr/terms-of-service) |
 | 🇮🇹 Italia | [Leggi →](it/privacy-policy) | [Leggi →](it/terms-of-service) |
 | 🇧🇷 Brasil | [Ler →](pt-br/privacy-policy) | [Ler →](pt-br/terms-of-service) |
+| 🇪🇸 España | [Leer →](es/privacy-policy) | [Leer →](es/terms-of-service) |
+| 🇪🇸 Catalunya (Català) | [Llegeix →](ca/privacy-policy) | [Llegeix →](ca/terms-of-service) |
 
 Not sure which applies to you? The app opens the correct version automatically based on your device language and region. If you're browsing here directly, pick the region closest to where you live.
 
@@ -46,4 +48,4 @@ Email: quielo@hanzotechnologies.com
 
 ---
 
-*Hanzo Health is currently available in the United States, Canada, United Kingdom, Australia, New Zealand, Japan, France, Italy, and Brazil. More regions will be added here as the app expands.*
+*Hanzo Health is currently available in the United States, Canada, United Kingdom, Australia, New Zealand, Japan, France, Italy, Brazil, and Spain (including Catalonia). More regions will be added here as the app expands.*
